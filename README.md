@@ -1,4 +1,4 @@
-# Smoke-detection-and-fire-prervention Using Cisco packet tracer
+# Smoke-Detection-and-Fire-Prervention Using Cisco Packet Tracer
 
 Project Overview:
 
